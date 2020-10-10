@@ -1,0 +1,18 @@
+
+       ____           _     _
+      / ____   _ _ __| |   (_)_ __
+     | |  | | | | '__| |   | | '_ \
+     | |__| |_| | |  | |___| | |_) |
+      \____\__,_|_|  |_____|_| .__/
+                             |_|
+	By N11rm44L 7w44711
+	
+	GitHub : https://github.com/niirmaaltwaatii/CurLip	
+
+	Description :
+	CurLip Generates a data files for Public Details of IP Addresses
+
+	Use :
+	Enter the IP Address & it will show its Info in XML/JSON format
+	File is also saved as <ip-address>.<xml/json> at ipdata/
+

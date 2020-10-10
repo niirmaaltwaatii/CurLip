@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <status>success</status>
+  <country>Nepal</country>
+  <countryCode>NP</countryCode>
+  <region>P3</region>
+  <regionName>Province 3</regionName>
+  <city>Bhaktapur</city>
+  <zip></zip>
+  <lat>127.0.0.1</lat>
+  <lon>127.0.0.1</lon>
+  <timezone>Asia/Kathmandu</timezone>
+  <isp>Internet Service Provider</isp>
+  <org>Organization</org>
+  <query>niirmaaltwaatii</query>
+</query>

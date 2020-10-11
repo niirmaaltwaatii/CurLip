@@ -10,7 +10,7 @@
 	GitHub : https://github.com/niirmaaltwaatii/CurLip	
 
 	Description :
-	CurLip Generates a data files for Public Details of IP Addresses
+	CurLip Gives Information about IP Addresses
 
 	Use :
 	Enter the IP Address & it will show its Info in XML/JSON format

@@ -18,6 +18,9 @@ curlip | curlip.bat OR ./curlip.bat | ./curlip
 CurLip Gives Information about IP Addresses using ip-api<br>
 **API** : _https://www.ip-api.com/_
 
-## Use
+## Images
+![CurLip](img/CurLip.png)
+
+## How to Use ?
 * Enter the IP Address & it will show its Info in XML/JSON format <br>
 * File is also saved as _ip-address.xml/json_ at ipdata/
